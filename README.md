@@ -1,4 +1,4 @@
-# PySpark-Google-Play-Store-analysis
+# PySpark Google Play Store analysis
 
 This [notebook](https://github.com/cvilla87/PySpark-Google-Play-Store-analysis/blob/master/Google%20Play%20Store%20Apps.ipynb) shows an analysis of a Kaggle dataset based on Google Play Store Apps, using PySpark (**SparkSQL** and **DataFrames**).
 
